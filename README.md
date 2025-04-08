@@ -4,7 +4,7 @@
  
  # O que é
  Este é um pequeno projeto que estou montando para mostrar de forma mais visual e estilizada minha carreira, tanto profissional quanto pessoal.
- É um *site estático*, nada muito complexo.
+ É um **site estático**, nada muito complexo.
 
  ---
 
